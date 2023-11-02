@@ -6,8 +6,7 @@ body {
 }
 
 header {
-    background-color: #007BFF; /* Royal Blue */
-    color: #fff;
+    background: linear-gradient(45deg,#87F1FF, #6AEDFF);
     padding: 10px 0;
     text-align: center;
 }
